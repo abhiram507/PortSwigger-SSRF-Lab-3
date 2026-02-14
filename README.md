@@ -132,7 +132,7 @@ Content-Length: 3123
 Proof of Exploitation:
 
 
-![Proof of SSRF Error]()
+![Proof of SSRF Error](https://github.com/abhiram507/PortSwigger-SSRF-Lab-3/blob/990524db13b5d29953f5a7130f6d76252c61675b/PortSwigger%20SSRF%20Lab%203%20error.png)
 
 Figure 1: Open redirection confirmed on /product/nextProduct with path= parameter.
 
