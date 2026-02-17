@@ -144,7 +144,7 @@ Figure 2: Successful deletion of user 'carlos' via internal endpoint.
 
 
 
-![Lab Solved Congratulations]()
+![Lab Solved Congratulations](https://github.com/abhiram507/PortSwigger-SSRF-Lab-3/blob/b47d24e99b5c2527fe9ee179ccfcc2ca675a9c68/PortSwigger-SSRF-Lab-3%20Lab%20Completion.png)
 
 Figure 3: PortSwigger Academy confirmation – "Congratulations, you solved the lab!"
 
